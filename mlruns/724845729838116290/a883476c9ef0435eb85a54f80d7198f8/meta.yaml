@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/724845729838116290/a883476c9ef0435eb85a54f80d7198f8/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '724845729838116290'
+lifecycle_stage: active
+run_id: a883476c9ef0435eb85a54f80d7198f8
+run_name: adorable-pug-762
+run_uuid: a883476c9ef0435eb85a54f80d7198f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753561681316
+status: 1
+tags: []
+user_id: Abdullahi Mujaheed

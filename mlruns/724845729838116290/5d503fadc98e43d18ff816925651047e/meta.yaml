@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/724845729838116290/5d503fadc98e43d18ff816925651047e/artifacts
+end_time: 1753562351738
+entry_point_name: ''
+experiment_id: '724845729838116290'
+lifecycle_stage: active
+run_id: 5d503fadc98e43d18ff816925651047e
+run_name: classy-gnat-212
+run_uuid: 5d503fadc98e43d18ff816925651047e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1753562286689
+status: 3
+tags: []
+user_id: Abdullahi Mujaheed
